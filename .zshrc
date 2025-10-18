@@ -25,7 +25,7 @@ setopt hist_ignore_space
 bindkey '^[k' history-search-backward
 bindkey '^[j' history-serach-forward
 
-alias ls="ls --color"
+alias ls="ls --color -a"
 alias gc="git commit -m"
 
 custom_paths=(
