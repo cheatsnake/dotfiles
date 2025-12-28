@@ -31,6 +31,8 @@ alias gc="git commit -m"
 custom_paths=(
 	"/home/yurace/.local/share/fnm"
 	"/usr/local/go/bin"
+	"/usr/local/bin"
+	"/usr/local/cuda-13.0/bin"
 )
 
 for p in "${custom_paths[@]}"; do
