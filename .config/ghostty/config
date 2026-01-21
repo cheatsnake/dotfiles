@@ -3,3 +3,4 @@ maximize=true
 command = TERM=xterm-256color /usr/bin/zsh
 window-padding-x = 22
 window-padding-y = 22
+command=tmux
